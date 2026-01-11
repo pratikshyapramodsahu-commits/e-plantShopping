@@ -20,5 +20,4 @@ CSS Modules
 ├── README.md
 └── package.json
 
-# Start the development server:
-npm run dev
+
