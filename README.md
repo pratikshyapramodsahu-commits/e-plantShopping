@@ -22,3 +22,6 @@ CSS Modules
 
 # Start the development server:
 npm run dev
+
+# Website Live at: 
+https://pratikshyapramodsahu-commits.github.io/e-plantShopping/
